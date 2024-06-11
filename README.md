@@ -1,2 +1,2 @@
-# TicTacToe
-A simple tic tac toe web application built using html,css,and javascript.
+# Currency Converter
+A simple currency converter web application using api fetching.
